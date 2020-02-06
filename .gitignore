@@ -1,0 +1,9 @@
+.idea/
+.pycharm/
+libspecs/
+robot_output/
+
+.metadata/
+.pydevproject
+.project
+red.xml
